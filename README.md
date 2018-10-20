@@ -4,6 +4,8 @@
 
 ### A freeCodeCamp Responsive Web Design Project
 
-<https://tribute.gordonscampinggear.com/>
+<https://tribute.gordondoskas.com>
 
-![Tribute](https://gordonscampinggear.com/img/tribute.png)
+A freeCodeCamp Responsive Web Design project, this simple website is a tribute to Thor, the god of thunder, a fictional character in the Marvel Cinematic Universe. It features a timeline that showcases his accomplishments over the years. Warning: Spoiler Alert.
+
+![Tribute](https://portfolio.gordondoskas.com/img/tribute.png 'Tribute')
